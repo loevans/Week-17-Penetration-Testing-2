@@ -118,7 +118,7 @@ You've been provided full access to the network and are getting ping responses f
 
       > Answer: search -f *recipe*.txt
 
- 
+ ![image](https://user-images.githubusercontent.com/93744925/162007889-95ae065e-4dce-481a-8f86-0f5f626ee67c.png)
 
     - **Bonus**: Run the command that exfiltrates the `recipe*.txt` file:
 
