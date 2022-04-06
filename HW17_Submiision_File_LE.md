@@ -83,7 +83,7 @@ You've been provided full access to the network and are getting ping responses f
      
      > Answer: search icecast
 
- 
+ ![image](https://user-images.githubusercontent.com/93744925/162008024-172f8b7e-f257-4eeb-a25d-f11065715959.png)
 
    - Run the command to use the Icecast module:
 
