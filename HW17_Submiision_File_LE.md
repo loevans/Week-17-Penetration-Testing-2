@@ -148,6 +148,7 @@ C. Run the command that displays the target's computer system information:
 
    > Answer: sysinfo
  
+![image](https://user-images.githubusercontent.com/93744925/162008901-2c33837c-bfad-440b-b3a0-0de4753f8c55.png)
 
 ---
 
