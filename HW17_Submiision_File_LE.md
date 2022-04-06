@@ -111,7 +111,7 @@ You've been provided full access to the network and are getting ping responses f
       
      > Answer: search -f *secretfile*.txt
 
- 
+ ![image](https://user-images.githubusercontent.com/93744925/162008290-9da4d0d9-f396-4369-acf1-b77dc26a2660.png)
 
  7. You should now have a Meterpreter session open.
  
