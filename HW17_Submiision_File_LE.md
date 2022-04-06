@@ -69,6 +69,7 @@ You've been provided full access to the network and are getting ping responses f
   
      > Answer: ssearchsploit icecast
  
+![image](https://user-images.githubusercontent.com/93744925/162008112-e8bc8a93-b1ae-41f8-81e7-2a50f9908585.png)
 
 3. Now that we know which exploits are available to us, let's start Metasploit:
  
