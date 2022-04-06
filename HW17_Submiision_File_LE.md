@@ -130,6 +130,7 @@ You've been provided full access to the network and are getting ping responses f
 8. You can also use Meterpreter's local exploit suggester to find possible exploits.
 
  > Answer: run post/multi/recon/local_exploit_suggester
+ ![image](https://user-images.githubusercontent.com/93744925/162014923-5e74ec20-53cc-40b5-875d-be53735be1d6.png)
 
    - **Note:** The exploit suggester is just that: a suggestion. Keep in mind that the listed suggestions may not include all available exploits.
 
