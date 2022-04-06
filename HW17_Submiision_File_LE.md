@@ -137,8 +137,7 @@ You've been provided full access to the network and are getting ping responses f
 A. Run a Meterpreter post script that enumerates all logged on users.
 
   > Answer: run post/windows/gather/enum_logged_on_users
-
- 
+![image](https://user-images.githubusercontent.com/93744925/162007763-97305197-a69b-4f72-bb66-e578b183b364.png)
 
 B. Open a Meterpreter shell. 
  
