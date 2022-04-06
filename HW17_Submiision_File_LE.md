@@ -92,7 +92,7 @@ You've been provided full access to the network and are getting ping responses f
 
      > Answer: use 0
 
- 
+ ![image](https://user-images.githubusercontent.com/93744925/162008783-354f38db-c458-4a6b-be61-bca0fcd25c80.png)
 
 5. Set the `RHOST` to the target machine.
  
