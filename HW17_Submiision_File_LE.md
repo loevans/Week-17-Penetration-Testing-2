@@ -60,7 +60,7 @@ You've been provided full access to the network and are getting ping responses f
 
       > Answer: nmap -sS -sV -O 192.168.0.20
  
- ![image](https://user-images.githubusercontent.com/93744925/162007473-6d7d80f2-25e6-47eb-8738-8f74457721cd.png)
+ ![image](https://user-images.githubusercontent.com/93744925/162008682-fdc94e85-549c-48a5-b371-68737f195ecb.png)
 
 
 2. From the previous step, we see that the Icecast service is running. Let's start by attacking that service. Search for any Icecast exploits:
