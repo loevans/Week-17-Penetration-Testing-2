@@ -142,8 +142,8 @@ A. Run a Meterpreter post script that enumerates all logged on users.
 
 B. Open a Meterpreter shell. 
  
-  > Answer: shell
- 
+![image](https://user-images.githubusercontent.com/93744925/162009059-a9bb5c33-9557-4842-9f89-606e399defb2.png)
+
 C. Run the command that displays the target's computer system information:
 
    > Answer: sysinfo
