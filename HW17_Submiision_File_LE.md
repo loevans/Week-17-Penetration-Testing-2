@@ -124,7 +124,7 @@ You've been provided full access to the network and are getting ping responses f
 
       > Answer: download 'c:\\Users\IEUser\Documents\Drinks.recipe.txt'
  
- 
+ ![image](https://user-images.githubusercontent.com/93744925/162007638-c84b6e68-3bd6-4b23-beb1-e64726854ed8.png)
 
 8. You can also use Meterpreter's local exploit suggester to find possible exploits.
 
